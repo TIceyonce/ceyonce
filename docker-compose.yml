@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  ms-eureka-server:
+    build: ms-eureka
+    restart: always
+    container_name: eureka
+    ports:
+      - "8761:8761"
