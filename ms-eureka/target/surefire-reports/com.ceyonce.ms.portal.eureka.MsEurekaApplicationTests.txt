@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ceyonce.ms.portal.eureka.MsEurekaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.986 s - in com.ceyonce.ms.portal.eureka.MsEurekaApplicationTests
